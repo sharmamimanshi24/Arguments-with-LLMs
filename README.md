@@ -38,3 +38,4 @@ argue_llm
 ├── debate.txt
 ├── README.md
 └── requirements.txt
+LICENSE
