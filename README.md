@@ -1,6 +1,6 @@
 # AI vs AI Debate System
 
-This project simulates a structured debate between two Large Language Models (LLMs) using predefined roles.
+This project simulates a structured conversational debate between two Large Language Models (LLMs). 
 
 One model defends a topic (Proponent) and the other challenges it (Opponent).  
 The models argue over multiple rounds, responding to each other’s points, just like a real debate.
